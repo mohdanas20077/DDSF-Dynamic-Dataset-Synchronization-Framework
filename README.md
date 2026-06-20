@@ -2,6 +2,10 @@
 ## Architecture Diagram
 
 ![DDSF Architecture](https://github.com/mohdanas20077/DDSF-Dynamic-Dataset-Synchronization-Framework/blob/main/diagrams/dataalgo.png?raw=true)
+![Version](https://img.shields.io/badge/version-v1.0-blue)
+![Status](https://img.shields.io/badge/status-Research%20Concept-green)
+![License](https://img.shields.io/badge/license-MIT-yellow)
+![Author](https://img.shields.io/badge/author-Mohd%20Anas-orange)
 Dynamic Dataset Synchronization Framework (DDSF) - A conceptual architecture for real-time dataset synchronization across AI systems.
 
 # Dynamic Dataset Synchronization Framework (DDSF)
